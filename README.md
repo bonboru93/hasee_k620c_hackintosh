@@ -1,21 +1,21 @@
 # hasee_k620c_hackintosh
 
-Product | Hasee k620c
-- | -
-Model | Quanta TWJ
-CPU | Intel i7 4700MQ
-MEM | Samsung DDR3-1600 4GB * 2
-SSD | LITEON 240GB
-GPU | nVIDIA GTX760m 2GB
-ETHERNET | Realtek RTL8188
-WIFI | Broadcom 943224 (Replaced)
+| Product | Hasee k620c |
+| - | - |
+| Model | Quanta TWJ |
+| CPU | Intel i7 4700MQ |
+| MEM | Samsung DDR3-1600 4GB * 2 |
+| SSD | LITEON 240GB |
+| GPU | nVIDIA GTX760m 2GB |
+| ETHERNET | Realtek RTL8188 |
+| WIFI | Broadcom 943224 (Replaced) |
 
 # UEFI setting
-Item | Value
-- | -
-Boot Type | Dual (both UEFI and Legacy)
-Intel Virtualization Technology | Disabled
-Secure Boot | Disabled
+| Item | Value |
+| - | - |
+| Boot Type | Dual (both UEFI and Legacy) |
+| Intel Virtualization Technology | Disabled |
+| Secure Boot | Disabled |
 
 
 # OSX version support
